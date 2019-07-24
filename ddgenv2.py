@@ -46,9 +46,7 @@ seniorCore = ['Atul', 'Ayush', 'Charu', 'Kabiir', 'Krityaan', 'Manisha', 'Namit'
 juniorCore = ['Aban', 'Aradhita', 'Bhavishya', 'Chinmay', 'David', 'Devam', 'Fardeen', 'Gauri', 'Kuhoo', 'Lakshay', 'Manan', 'Prajeeth', 'Rama', 'Rishit', 'Rohan', 'Ruchica', 
 			'Sanjana', 'SauravH', 'Siddharth', 'Suranjan', 'Taarussh', 'Tajendar', 'Tanya', 'Thiru', 'Vaishnavi']
 
-core = ['Atul', 'Ayush', 'Charu', 'Kabiir', 'Krityaan', 'Manisha', 'Namit', 'Rishab', 'Saksham', 'Sakshi', 'Sarthak', 'Saurav', 'Simran', 'Sonal',
-		'Aban', 'Aradhita', 'Bhavishya', 'Chinmay', 'David', 'Devam', 'Fardeen', 'Gauri', 'Kuhoo', 'Lakshay', 'Manan', 'Prajeeth', 'Rama','Rishit', 'Rohan', 'Ruchica', 
-		'Sanjana', 'SauravH', 'Siddharth', 'Suranjan', 'Taarussh', 'Tajendar', 'Tanya', 'Thiru', 'Vaishnavi']
+core = ['Rohan', 'Saurav', 'Tanya', 'Devam', 'Fardeen', 'Aban', 'Lakshay', 'Thirumurugan', 'Rishit', 'Aradhita', 'Taarussh', 'Gauri', 'David', 'Suranjan', 'Kuhooo', 'Bhavishya', 'Vaishnavi', 'Sanjana', 'Ruchica', 'Siddharth']
 
 random.shuffle(core)
 
